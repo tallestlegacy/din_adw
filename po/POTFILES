@@ -1,0 +1,4 @@
+data/dev.themarvin.din.desktop.in
+data/dev.themarvin.din.appdata.xml.in
+data/dev.themarvin.din.gschema.xml
+src/window.ui
